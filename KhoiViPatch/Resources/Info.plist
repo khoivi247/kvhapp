@@ -7,13 +7,13 @@
     <key>CFBundleDisplayName</key>
     <string>KhoiViPatch</string>
     <key>CFBundleExecutable</key>
-    <string>$(EXECUTABLE_NAME)</string>
+    <string>KhoiViPatch</string>
     <key>CFBundleIdentifier</key>
-    <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+    <string>com.khoividev.khoivipatch</string>
     <key>CFBundleInfoDictionaryVersion</key>
     <string>6.0</string>
     <key>CFBundleName</key>
-    <string>$(PRODUCT_NAME)</string>
+    <string>KhoiViPatch</string>
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>
@@ -26,11 +26,6 @@
     <dict>
         <key>UIApplicationSupportsMultipleScenes</key>
         <false/>
-    </dict>
-    <key>UILaunchScreen</key>
-    <dict>
-        <key>UIColorName</key>
-        <string></string>
     </dict>
     <key>UIFileSharingEnabled</key>
     <true/>
